@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS video (
+    id INT PRIMARY KEY,
+    link TEXT NOT NULL
+);
